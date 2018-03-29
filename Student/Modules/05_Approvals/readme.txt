@@ -1,1 +1,0 @@
-The student files for this module will be available on Thursday morning.

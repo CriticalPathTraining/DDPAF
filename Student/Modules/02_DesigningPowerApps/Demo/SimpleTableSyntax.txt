@@ -1,0 +1,2 @@
+Table( { FirstName: "Chuck", LastName: "Sterling" },
+       { FirstName: "Ted", LastName: "Pattison" } )
