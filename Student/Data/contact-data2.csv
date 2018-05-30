@@ -1,0 +1,35 @@
+contactid,firstname,lastname,company,emailaddress1,telephone1,telephone2,address1_line1,address1_city,address1_stateorprovince,address1_postalcode,statecode,ownerid
+1,Santiago,Hubbard,Volee Airlines,Santiago.Hubbard@VoleeAirlines.com,1(310)333-6666,1(310)111-8888,6614 Oak Street,Manhattan Beach,CA,90266,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+2,Nicky,Rios,Fabrikam,Nicky.Rios@Fabrikam.com,1(512)444-0000,1(512)888-0000,186 Church Street North,Austin,TX,78753,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+3,Kirk,Sexton,Contoso,Kirk.Sexton@Contoso.com,1(719)111-0000,1(719)555-8888,8791 Edgewood Drive,Colorado Springs,CO,80924,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+4,Regina,Mayer,Rovers Return,Regina.Mayer@RoversReturn.com,1(806)111-1111,1(806)777-2222,54 Madison Avenue,Amarillo,TX,79121,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+5,Cyril,Mathews,Ecumena,Cyril.Mathews@Ecumena.com,1(806)222-3333,1(806)444-8888,319 Valley View Drive,Lubbock,TX,79407,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+6,Kris,Booker,Springfield Nuclear Power Plant,Kris.Booker@SpringfieldNuclearPowerPlant.com,1(480)222-3333,1(480)555-0000,9820 Oak Avenue,Tempe,AZ,85281,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+7,Tracy,Christensen,Oceanic Airlines,Tracy.Christensen@OceanicAirlines.com,1(915)555-5555,1(915)666-6666,68 2nd Avenue,El Paso,TX,79936,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+8,Reed,Glover,Doublemeat Palace,Reed.Glover@DoublemeatPalace.com,1(512)777-7777,1(512)444-0000,79 Jones Street,Austin,TX,78730,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+9,Julia,Medina,W.C. Boggs & Co.,Julia.Medina@W.C.Boggs&Co..com,1(210)555-5555,1(210)444-4444,728 Heather Court,San Antonio,TX,78253,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+10,Tommie,Herring,Tricell,Tommie.Herring@Tricell.com,1(310)222-5555,1(310)777-5555,3691 Briarwood Drive,Manhattan Beach,CA,90266,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+11,Walker,Gardner,Kwik-E-Mart,Walker.Gardner@Kwik-E-Mart.com,1(480)555-2222,1(480)777-8888,66 Jackson Street,Phoenix,AZ,85044,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+12,Nicole,Soto,Central Perk,Nicole.Soto@CentralPerk.com,1(916)111-4444,1(916)111-1111,93 Fairview Road,Folsom,CA,95630,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+13,Sandy,Coleman,Initech,Sandy.Coleman@Initech.com,1(425)333-0000,1(425)666-3333,32 Evergreen Drive,Redmond,WA,98052,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+14,Bonita,Alvarez,W.C. Boggs & Co.,Bonita.Alvarez@W.C.Boggs&Co..com,1(541)666-6666,1(541)111-1111,35 Grove Avenue,Bend,OR,97701,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+15,Stella,Potter,Volee Airlines,Stella.Potter@VoleeAirlines.com,1(970)666-3333,1(970)555-4444,8508 Hillcrest Drive,Fort Collins,CO,80525,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+16,Raymond,Vazquez,Metacortex,Raymond.Vazquez@Metacortex.com,1(719)888-4444,1(719)444-4444,808 Ridge Road,Colorado Springs,CO,80922,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+17,Billie,Miller,ARCAM Corporation,Billie.Miller@ARCAMCorporation.com,1(480)111-5555,1(480)888-2222,874 Heather Lane,Tempe,AZ,85283,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+18,Dale,Cooke,Bluth Company,Dale.Cooke@BluthCompany.com,1(310)555-6666,1(310)666-3333,90 Lake Avenue,Compton,CA,90220,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+19,Jae,Schwartz,Umbrella Corporation,Jae.Schwartz@UmbrellaCorporation.com,1(602)888-4444,1(602)555-5555,1373 Woodland Drive,Phoenix,AZ,85042,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+20,Florine,Velasquez,Benthic Petroleum,Florine.Velasquez@BenthicPetroleum.com,1(719)777-0000,1(719)444-3333,45 George Street,Pueblo,CO,81008,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+21,Beatrice,Whitehead,The Crab Shack,Beatrice.Whitehead@TheCrabShack.com,1(520)555-7777,1(520)333-4444,7853 4th Street West,Tucson,AZ,85716,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+22,Donny,Jefferson,Acme Corp,Donny.Jefferson@AcmeCorp.com,1(480)888-7777,1(480)444-7777,222 Hillside Drive,Scottsdale,AZ,85250,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+23,Augusta,Black,Slate Rock and Gravel Company,Augusta.Black@SlateRockandGravelCompany.com,1(541)555-7777,1(541)111-3333,48 Oxford Court,Eugene,OR,97402,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+24,Stanford,Hood,"Shinra Electric Power Companyworld, Final Fantasy VII","Stanford.Hood@ShinraElectricPowerCompanyworld,FinalFantasyVII.com",1(214)444-6666,1(214)333-6666,35 Clinton Street,Dallas,TX,75220,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+25,Michelle,Daniel,Jupiter Mining Corporation,Michelle.Daniel@JupiterMiningCorporation.com,1(602)777-1111,1(602)555-5555,9417 Pearl Street,Phoenix,AZ,85018,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+26,Mike,Hampton,Medical Mechanica,Mike.Hampton@MedicalMechanica.com,1(210)777-1111,1(210)888-4444,1142 Hartford Road,San Antonio,TX,78245,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+27,Cornell,Gaines,Digivation Industries,Cornell.Gaines@DigivationIndustries.com,1(505)555-5555,1(505)555-4444,6100 West Avenue,Albuquerque,NM,87110,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+28,Jeannie,Christian,Daystrom Data Concepts,Jeannie.Christian@DaystromDataConcepts.com,1(661)222-4444,1(661)333-6666,2281 Green Street,Bakersfield,CA,93312,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+29,Lionel,Witt,Prescott Pharmaceuticals,Lionel.Witt@PrescottPharmaceuticals.com,1(520)222-1111,1(520)888-6666,66 Route 100,Tucson,AZ,85714,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+30,Ted,Downs,Contoso,Ted.Downs@Contoso.com,1(714)888-7777,1(714)666-4444,15 Pennsylvania Avenue,Huntington Beach,CA,92646,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+31,Ralph,Grimes,DHARMA Initiative,Ralph.Grimes@DHARMAInitiative.com,1(602)555-3333,1(602)444-1111,467 3rd Street North,Phoenix,AZ,85042,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+32,Chas,Howell,Slate Rock and Gravel Company,Chas.Howell@SlateRockandGravelCompany.com,1(360)444-3333,1(360)111-4444,32 Front Street,Vancouver,WA,98665,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+33,Zack,Miller,Groovy Smoothie,Zack.Miller@GroovySmoothie.com,1(512)888-4444,1(512)888-5555,543 Water Street,Austin,TX,78704,Active,e5d20466-d661-e811-a96a-000d3a1b913d
+34,Dante,Kent,The Crab Shack,Dante.Kent@TheCrabShack.com,1(951)777-5555,1(951)666-1111,330 York Street,Corona,CA,92881,Active,e5d20466-d661-e811-a96a-000d3a1b913d
