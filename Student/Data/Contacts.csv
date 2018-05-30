@@ -1,73 +1,35 @@
-CustomerId,FirstName,LastName,Company,EmailAddress,WorkPhone,HomePhone,Address,City,State,ZipCode
-1,Santiago,Hubbard,Volee Airlines,Santiago.Hubbard@VoleeAirlines.com,1(310)333-6666,1(310)111-8888,6614 Oak Street,Manhattan Beach,CA,90266
-2,Nicky,Rios,Fabrikam,Nicky.Rios@Fabrikam.com,1(512)444-0000,1(512)888-0000,186 Church Street North,Austin,TX,78753
-3,Kirk,Sexton,Contoso,Kirk.Sexton@Contoso.com,1(719)111-0000,1(719)555-8888,8791 Edgewood Drive,Colorado Springs,CO,80924
-4,Regina,Mayer,Rovers Return,Regina.Mayer@RoversReturn.com,1(806)111-1111,1(806)777-2222,54 Madison Avenue,Amarillo,TX,79121
-5,Cyril,Mathews,Ecumena,Cyril.Mathews@Ecumena.com,1(806)222-3333,1(806)444-8888,319 Valley View Drive,Lubbock,TX,79407
-6,Kris,Booker,Springfield Nuclear Power Plant,Kris.Booker@SpringfieldNuclearPowerPlant.com,1(480)222-3333,1(480)555-0000,9820 Oak Avenue,Tempe,AZ,85281
-7,Tracy,Christensen,Oceanic Airlines,Tracy.Christensen@OceanicAirlines.com,1(915)555-5555,1(915)666-6666,68 2nd Avenue,El Paso,TX,79936
-8,Reed,Glover,Doublemeat Palace,Reed.Glover@DoublemeatPalace.com,1(512)777-7777,1(512)444-0000,79 Jones Street,Austin,TX,78730
-9,Julia,Medina,W.C. Boggs & Co.,Julia.Medina@W.C.Boggs&Co..com,1(210)555-5555,1(210)444-4444,728 Heather Court,San Antonio,TX,78253
-10,Tommie,Herring,Tricell,Tommie.Herring@Tricell.com,1(310)222-5555,1(310)777-5555,3691 Briarwood Drive,Manhattan Beach,CA,90266
-11,Walker,Gardner,Kwik-E-Mart,Walker.Gardner@Kwik-E-Mart.com,1(480)555-2222,1(480)777-8888,66 Jackson Street,Phoenix,AZ,85044
-12,Nicole,Soto,Central Perk,Nicole.Soto@CentralPerk.com,1(916)111-4444,1(916)111-1111,93 Fairview Road,Folsom,CA,95630
-13,Sandy,Coleman,Initech,Sandy.Coleman@Initech.com,1(425)333-0000,1(425)666-3333,32 Evergreen Drive,Redmond,WA,98052
-14,Bonita,Alvarez,W.C. Boggs & Co.,Bonita.Alvarez@W.C.Boggs&Co..com,1(541)666-6666,1(541)111-1111,35 Grove Avenue,Bend,OR,97701
-15,Stella,Potter,Volée Airlines,Stella.Potter@VoléeAirlines.com,1(970)666-3333,1(970)555-4444,8508 Hillcrest Drive,Fort Collins,CO,80525
-16,Raymond,Vazquez,Metacortex,Raymond.Vazquez@Metacortex.com,1(719)888-4444,1(719)444-4444,808 Ridge Road,Colorado Springs,CO,80922
-17,Billie,Miller,ARCAM Corporation,Billie.Miller@ARCAMCorporation.com,1(480)111-5555,1(480)888-2222,874 Heather Lane,Tempe,AZ,85283
-18,Dale,Cooke,Bluth Company,Dale.Cooke@BluthCompany.com,1(310)555-6666,1(310)666-3333,90 Lake Avenue,Compton,CA,90220
-19,Jae,Schwartz,Umbrella Corporation,Jae.Schwartz@UmbrellaCorporation.com,1(602)888-4444,1(602)555-5555,1373 Woodland Drive,Phoenix,AZ,85042
-20,Florine,Velasquez,Benthic Petroleum,Florine.Velasquez@BenthicPetroleum.com,1(719)777-0000,1(719)444-3333,45 George Street,Pueblo,CO,81008
-21,Beatrice,Whitehead,The Crab Shack,Beatrice.Whitehead@TheCrabShack.com,1(520)555-7777,1(520)333-4444,7853 4th Street West,Tucson,AZ,85716
-22,Donny,Jefferson,Acme Corp,Donny.Jefferson@AcmeCorp.com,1(480)888-7777,1(480)444-7777,222 Hillside Drive,Scottsdale,AZ,85250
-23,Augusta,Black,Slate Rock and Gravel Company,Augusta.Black@SlateRockandGravelCompany.com,1(541)555-7777,1(541)111-3333,48 Oxford Court,Eugene,OR,97402
-24,Stanford,Hood,"Shinra Electric Power Companyworld, Final Fantasy VII","Stanford.Hood@ShinraElectricPowerCompanyworld,FinalFantasyVII.com",1(214)444-6666,1(214)333-6666,35 Clinton Street,Dallas,TX,75220
-25,Michelle,Daniel,Jupiter Mining Corporation,Michelle.Daniel@JupiterMiningCorporation.com,1(602)777-1111,1(602)555-5555,9417 Pearl Street,Phoenix,AZ,85018
-26,Mike,Hampton,Medical Mechanica,Mike.Hampton@MedicalMechanica.com,1(210)777-1111,1(210)888-4444,1142 Hartford Road,San Antonio,TX,78245
-27,Cornell,Gaines,Digivation Industries,Cornell.Gaines@DigivationIndustries.com,1(505)555-5555,1(505)555-4444,6100 West Avenue,Albuquerque,NM,87110
-28,Jeannie,Christian,Daystrom Data Concepts,Jeannie.Christian@DaystromDataConcepts.com,1(661)222-4444,1(661)333-6666,2281 Green Street,Bakersfield,CA,93312
-29,Lionel,Witt,Prescott Pharmaceuticals,Lionel.Witt@PrescottPharmaceuticals.com,1(520)222-1111,1(520)888-6666,66 Route 100,Tucson,AZ,85714
-30,Ted,Downs,Contoso,Ted.Downs@Contoso.com,1(714)888-7777,1(714)666-4444,15 Pennsylvania Avenue,Huntington Beach,CA,92646
-31,Ralph,Grimes,DHARMA Initiative,Ralph.Grimes@DHARMAInitiative.com,1(602)555-3333,1(602)444-1111,467 3rd Street North,Phoenix,AZ,85042
-32,Chas,Howell,Slate Rock and Gravel Company,Chas.Howell@SlateRockandGravelCompany.com,1(360)444-3333,1(360)111-4444,32 Front Street,Vancouver,WA,98665
-33,Zack,Miller,Groovy Smoothie,Zack.Miller@GroovySmoothie.com,1(512)888-4444,1(512)888-5555,543 Water Street,Austin,TX,78704
-34,Dante,Kent,The Crab Shack,Dante.Kent@TheCrabShack.com,1(951)777-5555,1(951)666-1111,330 York Street,Corona,CA,92881
-35,Deangelo,Garcia,Grand Trunk Semaphore Company,Deangelo.Garcia@GrandTrunkSemaphoreCompany.com,1(805)111-0000,1(805)888-4444,42 Ridge Avenue,Ventura,CA,93003
-36,Drew,Wade,Springfield Nuclear Power Plant,Drew.Wade@SpringfieldNuclearPowerPlant.com,1(858)666-5555,1(858)555-7777,82 Lawrence Street,San Diego,CA,92111
-37,Audra,Flowers,Porter Automobiles,Audra.Flowers@PorterAutomobiles.com,1(817)888-1111,1(817)666-4444,84 Redwood Drive,Arlington,TX,76015
-38,Jarvis,Cochran,Sheinhardt Wig Company,Jarvis.Cochran@SheinhardtWigCompany.com,1(806)111-7777,1(806)444-1111,170 Chestnut Street,Amarillo,TX,79121
-39,Sara,Cruz,KrebStarLexCorp,Sara.Cruz@KrebStarLexCorp.com,1(541)555-3333,1(541)555-8888,40 Riverside Drive,Bend,OR,97701
-40,Daron,Leonard,Krusty Burger,Daron.Leonard@KrustyBurger.com,1(360)111-2222,1(360)777-2222,79 Elizabeth Street,Vancouver,WA,98665
-41,Emilio,Bennett,Mel's Diner,Emilio.Bennett@MelsDiner.com,1(503)777-0000,1(503)888-6666,998 Virginia Avenue,Beaverton,OR,97005
-42,Ursula,Bonner,Rekall,Ursula.Bonner@Rekall.com,1(858)333-8888,1(858)888-1111,27 Canterbury Road,San Diego,CA,92111
-43,Von,Pacheco,Medical Mechanica,Von.Pacheco@MedicalMechanica.com,1(707)666-1111,1(707)222-0000,40 Union Street,Eureka,CA,95501
-44,Moises,Hyde,Doublemeat Palace,Moises.Hyde@DoublemeatPalace.com,1(661)777-8888,1(661)666-8888,45 Cambridge Drive,Bakersfield,CA,93312
-45,Leta,Vazquez,InGen,Leta.Vazquez@InGen.com,1(801)777-8888,1(801)333-2222,27 Jefferson Avenue,Layton,UT,84041
-46,Rosalyn,Osborne,Vandelay Industries,Rosalyn.Osborne@VandelayIndustries.com,1(509)555-6666,1(509)111-0000,53 Cambridge Court,Spokane,WA,99218
-47,Alexis,Grimes,Astromech,Alexis.Grimes@Astromech.com,1(303)333-3333,1(303)666-1111,3573 Cottage Street,Westminster,CO,80021
-48,Raul,Salazar,Liandri Mining Corporation,Raul.Salazar@LiandriMiningCorporation.com,1(719)555-5555,1(719)777-6666,346 Holly Court,Colorado Springs,CO,80906
-49,Ignacio,Atkins,Krusty Burger,Ignacio.Atkins@KrustyBurger.com,1(503)333-4444,1(503)888-1111,88 Cherry Lane,Beaverton,OR,97005
-50,Orlando,Cooper,ARCAM Corporation,Orlando.Cooper@ARCAMCorporation.com,1(806)222-3333,1(806)555-1111,47 Elmwood Avenue,Lubbock,TX,79407
-51,Eldridge,Ruiz,Crudgington Brewery,Eldridge.Ruiz@CrudgingtonBrewery.com,1(858)444-3333,1(858)333-8888,98 School Street,San Diego,CA,92111
-52,Shelby,Lara,Bluth Company,Shelby.Lara@BluthCompany.com,1(970)444-4444,1(970)888-7777,4584 Route 10,Fort Collins,CO,80525
-53,Gregory,Atkins,Digivation Industries,Gregory.Atkins@DigivationIndustries.com,1(818)222-6666,1(818)111-7777,9187 Amherst Street,North Hollywood,CA,91606
-54,Kathrine,Holder,Milliways,Kathrine.Holder@Milliways.com,1(801)666-6666,1(801)444-1111,3906 Linda Lane,Salt Lake City,UT,84101
-55,Jewell,Ryan,Office of Scientific Intelligence (OSI),Jewell.Ryan@OfficeofScientificIntelligence(OSI).com,1(408)777-0000,1(408)888-1111,318 7th Avenue,San Jose,CA,95110
-56,Jessica,Rasmussen,Total Bastard Airlines,Jessica.Rasmussen@TotalBastardAirlines.com,1(858)444-3333,1(858)888-7777,60 Olive Street,San Diego,CA,92126
-57,Bob,Forbes,W.C. Boggs & Co.,Bob.Forbes@W.C.Boggs&Co..com,1(505)333-1111,1(505)222-4444,42 Chestnut Avenue,Santa Fe,NM,87507
-58,Anita,Fletcher,VersaLife Corporation,Anita.Fletcher@VersaLifeCorporation.com,1(520)888-1111,1(520)777-0000,52 Cedar Lane,Tucson,AZ,85714
-59,Neva,Stephenson,KrebStarLexCorp,Neva.Stephenson@KrebStarLexCorp.com,1(425)333-0000,1(425)666-3333,174 Madison Street,Bellevue,WA,98006
-60,Cara,Casey,Slate Rock and Gravel Company,Cara.Casey@SlateRockandGravelCompany.com,1(541)111-1111,1(541)444-7777,45 Somerset Drive,Albany,OR,97322
-61,Isaac,Cooke,Springfield Nuclear Power Plant,Isaac.Cooke@SpringfieldNuclearPowerPlant.com,1(210)222-4444,1(210)333-7777,196 Sycamore Street,San Antonio,TX,78250
-62,Moises,Jefferson,Hishii Industries,Moises.Jefferson@HishiiIndustries.com,1(303)555-1111,1(303)666-4444,2163 Prospect Street,Denver,CO,80238
-63,Grady,Morales,Cyberdyne Systems,Grady.Morales@CyberdyneSystems.com,1(503)555-4444,1(503)777-2222,31 Laurel Drive,Portland,OR,97217
-64,Gonzalo,Rodriguez,ComTron,Gonzalo.Rodriguez@ComTron.com,1(505)666-0000,1(505)111-2222,344 5th Street South,Rio Rancho,NM,87124
-65,Sylvester,Pollard,Blaidd Dwrg Nuclear Power Plant,Sylvester.Pollard@BlaiddDwrgNuclearPowerPlant.com,1(323)111-0000,1(323)111-4444,70 West Street,Los Angeles,CA,90048
-66,Justine,Leon,Slate Rock and Gravel Company,Justine.Leon@SlateRockandGravelCompany.com,1(480)777-3333,1(480)333-1111,487 Redwood Drive,Scottsdale,AZ,85266
-67,Tomas,Lynn,Soar Airlines,Tomas.Lynn@SoarAirlines.com,1(801)666-6666,1(801)777-0000,761 Route 11,Layton,UT,84041
-68,Luigi,Gibbs,Khumalo,Luigi.Gibbs@Khumalo.com,1(505)222-3333,1(505)888-2222,236 Bridle Lane,Albuquerque,NM,87114
-69,Donnie,Randall,Tyrell Corporation,Donnie.Randall@TyrellCorporation.com,1(408)888-7777,1(408)888-3333,7445 Hartford Road,San Jose,CA,95123
-70,Milan,Blake,Nordyne Defense Dynamics,Milan.Blake@NordyneDefenseDynamics.com,1(916)222-1111,1(916)666-8888,580 Henry Street,Sacramento,CA,95825
-71,Kirby,Buck,ComTron,Kirby.Buck@ComTron.com,1(971)666-2222,1(971)555-6666,40 Willow Lane,Portland,OR,97220
-72,Mervin,Wolfe,Itex,Mervin.Wolfe@Itex.com,1(434)111-3333,1(434)222-8888,29 1st Avenue,Charlottesville,VA,22911
+contactid,firstname,lastname,company,emailaddress1,telephone1,telephone2,address1_line1,address1_city,address1_stateorprovince,address1_postalcode
+D3974FAD-A0ED-4610-AD7E-0B37B339FDC2,Santiago,Hubbard,Volee Airlines,Santiago.Hubbard@VoleeAirlines.com,1(310)333-6666,1(310)111-8888,6614 Oak Street,Manhattan Beach,CA,90266
+975E5722-197C-4172-8AE4-6DF5078B6063,Nicky,Rios,Fabrikam,Nicky.Rios@Fabrikam.com,1(512)444-0000,1(512)888-0000,186 Church Street North,Austin,TX,78753
+FAD8515C-CD12-46AE-8F0F-DFA7AA30FFD4,Kirk,Sexton,Contoso,Kirk.Sexton@Contoso.com,1(719)111-0000,1(719)555-8888,8791 Edgewood Drive,Colorado Springs,CO,80924
+E3E7F8CA-481F-4591-8AE8-215A15B81B59,Regina,Mayer,Rovers Return,Regina.Mayer@RoversReturn.com,1(806)111-1111,1(806)777-2222,54 Madison Avenue,Amarillo,TX,79121
+1DFA1F7E-92B1-42CE-836D-7A8B68F8155B,Cyril,Mathews,Ecumena,Cyril.Mathews@Ecumena.com,1(806)222-3333,1(806)444-8888,319 Valley View Drive,Lubbock,TX,79407
+DDE940AD-F319-42A2-9572-6641273970EB,Kris,Booker,Springfield Nuclear Power Plant,Kris.Booker@SpringfieldNuclearPowerPlant.com,1(480)222-3333,1(480)555-0000,9820 Oak Avenue,Tempe,AZ,85281
+03F3617F-0531-4684-B5E9-C879EFA19CF1,Tracy,Christensen,Oceanic Airlines,Tracy.Christensen@OceanicAirlines.com,1(915)555-5555,1(915)666-6666,68 2nd Avenue,El Paso,TX,79936
+F45BED44-84FF-4A36-A03F-5CC1B5EB415F,Reed,Glover,Doublemeat Palace,Reed.Glover@DoublemeatPalace.com,1(512)777-7777,1(512)444-0000,79 Jones Street,Austin,TX,78730
+634660F9-7888-4305-B9BF-FD1C9C3F88FE,Julia,Medina,W.C. Boggs & Co.,Julia.Medina@W.C.Boggs&Co..com,1(210)555-5555,1(210)444-4444,728 Heather Court,San Antonio,TX,78253
+F621DFBC-3D39-4F76-9229-1880132146AF,Tommie,Herring,Tricell,Tommie.Herring@Tricell.com,1(310)222-5555,1(310)777-5555,3691 Briarwood Drive,Manhattan Beach,CA,90266
+4E073C8A-76A6-4A5C-AF81-46939953BA1A,Walker,Gardner,Kwik-E-Mart,Walker.Gardner@Kwik-E-Mart.com,1(480)555-2222,1(480)777-8888,66 Jackson Street,Phoenix,AZ,85044
+A50F9DA3-C996-40FF-AD71-E150FB0BCC2B,Nicole,Soto,Central Perk,Nicole.Soto@CentralPerk.com,1(916)111-4444,1(916)111-1111,93 Fairview Road,Folsom,CA,95630
+19750615-9A01-44D9-B2CD-AE0B4D00187D,Sandy,Coleman,Initech,Sandy.Coleman@Initech.com,1(425)333-0000,1(425)666-3333,32 Evergreen Drive,Redmond,WA,98052
+7BF0D9DF-B990-4775-8C1F-620A682B6891,Bonita,Alvarez,W.C. Boggs & Co.,Bonita.Alvarez@W.C.Boggs&Co..com,1(541)666-6666,1(541)111-1111,35 Grove Avenue,Bend,OR,97701
+A1A7611F-A073-4E7F-9D5D-586C25F8E625,Stella,Potter,Volee Airlines,Stella.Potter@VoleeAirlines.com,1(970)666-3333,1(970)555-4444,8508 Hillcrest Drive,Fort Collins,CO,80525
+C3C62C0B-C772-46B7-9B1D-3F63D304209C,Raymond,Vazquez,Metacortex,Raymond.Vazquez@Metacortex.com,1(719)888-4444,1(719)444-4444,808 Ridge Road,Colorado Springs,CO,80922
+921693E9-3F37-484A-A0D7-D648E67DE1B2,Billie,Miller,ARCAM Corporation,Billie.Miller@ARCAMCorporation.com,1(480)111-5555,1(480)888-2222,874 Heather Lane,Tempe,AZ,85283
+5616C141-5829-4AEC-8453-985A6811D413,Dale,Cooke,Bluth Company,Dale.Cooke@BluthCompany.com,1(310)555-6666,1(310)666-3333,90 Lake Avenue,Compton,CA,90220
+19125F6D-E195-428F-B714-0B144479C909,Jae,Schwartz,Umbrella Corporation,Jae.Schwartz@UmbrellaCorporation.com,1(602)888-4444,1(602)555-5555,1373 Woodland Drive,Phoenix,AZ,85042
+1A847103-C7C4-4FED-AFB2-DAFFD3EFD3EA,Florine,Velasquez,Benthic Petroleum,Florine.Velasquez@BenthicPetroleum.com,1(719)777-0000,1(719)444-3333,45 George Street,Pueblo,CO,81008
+E55090CA-EA7E-4072-9C4F-86CB802852FC,Beatrice,Whitehead,The Crab Shack,Beatrice.Whitehead@TheCrabShack.com,1(520)555-7777,1(520)333-4444,7853 4th Street West,Tucson,AZ,85716
+A4971D2F-993B-4B71-8D54-A169A78E5A52,Donny,Jefferson,Acme Corp,Donny.Jefferson@AcmeCorp.com,1(480)888-7777,1(480)444-7777,222 Hillside Drive,Scottsdale,AZ,85250
+D1249D26-64F2-4051-BF99-9C661E256B83,Augusta,Black,Slate Rock and Gravel Company,Augusta.Black@SlateRockandGravelCompany.com,1(541)555-7777,1(541)111-3333,48 Oxford Court,Eugene,OR,97402
+884B51B4-92D9-4F01-8F69-4A77B0576825,Stanford,Hood,"Shinra Electric Power Companyworld, Final Fantasy VII","Stanford.Hood@ShinraElectricPowerCompanyworld,FinalFantasyVII.com",1(214)444-6666,1(214)333-6666,35 Clinton Street,Dallas,TX,75220
+27FD5627-1BBC-4D56-9396-17C3C7B56C3B,Michelle,Daniel,Jupiter Mining Corporation,Michelle.Daniel@JupiterMiningCorporation.com,1(602)777-1111,1(602)555-5555,9417 Pearl Street,Phoenix,AZ,85018
+3766E2D2-230A-4F22-AF3D-E4842A992214,Mike,Hampton,Medical Mechanica,Mike.Hampton@MedicalMechanica.com,1(210)777-1111,1(210)888-4444,1142 Hartford Road,San Antonio,TX,78245
+8E426735-2289-4F70-AD68-6DE250938523,Cornell,Gaines,Digivation Industries,Cornell.Gaines@DigivationIndustries.com,1(505)555-5555,1(505)555-4444,6100 West Avenue,Albuquerque,NM,87110
+CC5B258B-8665-4C9B-9746-C09E6F706387,Jeannie,Christian,Daystrom Data Concepts,Jeannie.Christian@DaystromDataConcepts.com,1(661)222-4444,1(661)333-6666,2281 Green Street,Bakersfield,CA,93312
+957457EC-6885-4689-B56E-FC1282F71616,Lionel,Witt,Prescott Pharmaceuticals,Lionel.Witt@PrescottPharmaceuticals.com,1(520)222-1111,1(520)888-6666,66 Route 100,Tucson,AZ,85714
+90587329-6CF9-4B7F-AE68-931741650011,Ted,Downs,Contoso,Ted.Downs@Contoso.com,1(714)888-7777,1(714)666-4444,15 Pennsylvania Avenue,Huntington Beach,CA,92646
+17DFC021-8AA2-434A-8A67-7F9F51BBD7BB,Ralph,Grimes,DHARMA Initiative,Ralph.Grimes@DHARMAInitiative.com,1(602)555-3333,1(602)444-1111,467 3rd Street North,Phoenix,AZ,85042
+43DC9DF0-0B73-4327-A018-6BC962A5F95F,Chas,Howell,Slate Rock and Gravel Company,Chas.Howell@SlateRockandGravelCompany.com,1(360)444-3333,1(360)111-4444,32 Front Street,Vancouver,WA,98665
+9FC422F5-2785-4700-A007-D481D18F9BB6,Zack,Miller,Groovy Smoothie,Zack.Miller@GroovySmoothie.com,1(512)888-4444,1(512)888-5555,543 Water Street,Austin,TX,78704
+321581F1-8AF5-48A1-924E-6275AEE34CE3,Dante,Kent,The Crab Shack,Dante.Kent@TheCrabShack.com,1(951)777-5555,1(951)666-1111,330 York Street,Corona,CA,92881
